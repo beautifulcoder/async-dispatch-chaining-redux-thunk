@@ -1,0 +1,28 @@
+{
+  "name": "async-dispatch-chaining-redux-thunk",
+  "version": "1.0.0",
+  "description": "Async Dispatch Chaining with Redux-Thunk",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "server": "node_modules/.bin/json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github"
+  },
+  "keywords": [
+    "redux",
+    "redux-thunk",
+    "axios",
+    "json-server"
+  ],
+  "author": "Camilo Reyes",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "json-server": "^0.16.1",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0"
+  }
+}
