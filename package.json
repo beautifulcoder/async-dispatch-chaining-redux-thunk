@@ -20,7 +20,7 @@
   "author": "Camilo Reyes",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^1.2.1",
     "json-server": "^0.16.1",
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0"
