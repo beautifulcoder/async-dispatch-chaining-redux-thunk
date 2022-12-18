@@ -21,7 +21,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^1.2.1",
-    "json-server": "^0.16.1",
+    "json-server": "^0.17.1",
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0"
   }
